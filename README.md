@@ -9,5 +9,7 @@ https://shagun30083.github.io/FruitShoot/
 
 Image Credits:
 BG Image - https://www.alamy.com/kitchen-interior-in-rustic-house-with-wooden-furniture-and-cooking-appliances-vector-cartoon-empty-cuisine-in-western-country-style-with-fridge-microwave-stove-and-vintage-dining-table-image553817159.html
+
 Gun - https://depositphotos.com/vector/gun-police-security-icon-flat-style-477198758.html
-Fruits - flaticon.com
+
+Fruits - https://flaticon.com
